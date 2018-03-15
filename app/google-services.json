@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "89514458901",
+    "firebase_url": "https://scoringintheweekend.firebaseio.com",
+    "project_id": "scoringintheweekend",
+    "storage_bucket": "scoringintheweekend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89514458901:android:bf807b07a127c2e7",
+        "android_client_info": {
+          "package_name": "com.dabudev.scoringintheweekend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89514458901-f8gndc2uasm2rvh6gntjor8i8klvar9q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dabudev.scoringintheweekend",
+            "certificate_hash": "0f14ad4649a5ed35674c06901fb020bf5c0394c7"
+          }
+        },
+        {
+          "client_id": "89514458901-5rb8gpgiceksi9q16rfvg8bsvslkfmg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD96ZJ_sY4MF8Dc-JHJ5ghmpeTFOO2wCKQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89514458901-5rb8gpgiceksi9q16rfvg8bsvslkfmg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

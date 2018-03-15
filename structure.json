@@ -1,0 +1,19 @@
+{
+  "database": "Scoring in the weekend",
+  "created": "2018-03-15T14:53:29.899Z",
+  "updated": "2018-03-15T14:53:29.899Z",
+  "user": {
+    "id": 0,
+    "name": "User1",
+    "nickname": "Chef Test",
+    "relationship": false,
+    "email": "dabudev@gmail.com"
+  },
+  "points": {
+    "id": "1",
+    "points": {
+      "totalpoints": 10,
+      "totalphonenumbers": 1
+    }
+  }
+}
